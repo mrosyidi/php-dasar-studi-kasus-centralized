@@ -8,3 +8,5 @@
   require_once __DIR__ . "/View/ViewRemoveTodoList.php";
 
   echo "Aplikasi Todolist" . PHP_EOL;
+
+  viewShowTodoList();
